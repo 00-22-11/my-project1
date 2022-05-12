@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@blockchain": ["./blockchain"],
+      "@config/*": ["./config/*"],
+      "@modules/*": ["./modules/*"],
+      "@providers/*": ["./providers/*"],
+      "@shared/*": ["./shared/*"],
+      "@styles/*": ["./styles/*"],
+      "@types/*": ["./types/*"],
+      "@images/*": ["./images/*"],
+      "@tests/*": ["./tests/*"],
+      "@translation": ["./translation"],
+      "@app.router": ["./app.router"],
+      "@layout": ["./layout"]
+    }
+  }
+}
